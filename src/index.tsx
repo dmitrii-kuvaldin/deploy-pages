@@ -28,11 +28,11 @@ const queryClient = new QueryClient({
 })
 
 const cards = [
-  { title: "Крошка цахес", content: 'Были же времена', imageUrl: 'https://i.c97.org/p/articles/2016/ai-233921-aux-head-20161210_putin_kukla_360.jpg' },
-  { title: "Крошка цахес", content: 'Были же времена', imageUrl: 'https://i.c97.org/p/articles/2016/ai-233921-aux-head-20161210_putin_kukla_360.jpg' },
-  { title: "Крошка цахес", content: 'Были же времена', imageUrl: 'https://i.c97.org/p/articles/2016/ai-233921-aux-head-20161210_putin_kukla_360.jpg' },
-  { title: "Крошка цахес", content: 'Были же времена', imageUrl: 'https://i.c97.org/p/articles/2016/ai-233921-aux-head-20161210_putin_kukla_360.jpg' },
-  { title: "Крошка цахес", content: 'Были же времена', imageUrl: 'https://i.c97.org/p/articles/2016/ai-233921-aux-head-20161210_putin_kukla_360.jpg' },
+  { title: "Alpes", content: 'The French Alps ski specialist', imageUrl: 'https://www.peakretreats.co.uk/media/15912/les2alpes_luka-leroy-1.jpg?anchor=center&mode=crop&width=1904&height=1320&rnd=132996012720000000' },
+  { title: "Alpes", content: 'The French Alps ski specialist', imageUrl: 'https://www.peakretreats.co.uk/media/15912/les2alpes_luka-leroy-1.jpg?anchor=center&mode=crop&width=1904&height=1320&rnd=132996012720000000' },
+  { title: "Alpes", content: 'The French Alps ski specialist', imageUrl: 'https://www.peakretreats.co.uk/media/15912/les2alpes_luka-leroy-1.jpg?anchor=center&mode=crop&width=1904&height=1320&rnd=132996012720000000' },
+  { title: "Alpes", content: 'The French Alps ski specialist', imageUrl: 'https://www.peakretreats.co.uk/media/15912/les2alpes_luka-leroy-1.jpg?anchor=center&mode=crop&width=1904&height=1320&rnd=132996012720000000' },
+  { title: "Alpes", content: 'The French Alps ski specialist', imageUrl: 'https://www.peakretreats.co.uk/media/15912/les2alpes_luka-leroy-1.jpg?anchor=center&mode=crop&width=1904&height=1320&rnd=132996012720000000' },
 ]
 
 
