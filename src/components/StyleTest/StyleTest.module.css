@@ -1,0 +1,30 @@
+.container {
+
+  background-color: #F0F0F0;
+  color: #0162D4;
+  overflow: hidden;
+}
+
+.container>h1 {
+  margin-left: 15px;
+}
+
+.containerActive {
+  background-color: #0162D4;
+  color: #F0F0F0;
+}
+
+.containerDisabled {
+  transition: transform 1s;
+  transform: rotate(360deg);
+  /* animation: rotateOnce 1s linear; */
+}
+
+/* @keyframes rotateOnce {
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
+} */
